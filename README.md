@@ -78,8 +78,13 @@ b.  KCL:
 <img width="1370" height="654" alt="image" src="https://github.com/user-attachments/assets/5be98c45-fc87-4d32-9747-b0d46d96030c" />
 
 #output:
-<img width="970" height="656" alt="image" src="https://github.com/user-attachments/assets/53510a31-cd13-443c-949a-28f86eab0cd6" />
-<img width="970" height="656" alt="image" src="https://github.com/user-attachments/assets/48abcf37-baaa-4c8e-bd72-a62624194319" />
+a.KVL
+
+<img width="975" height="730" alt="image" src="https://github.com/user-attachments/assets/5bb72a8e-e3f6-403a-a5b8-587154d3f83e" />
+
+B.KCL
+
+<img width="970" height="656" alt="image" src="https://github.com/user-attachments/assets/a0225c87-a7c3-46ba-ae69-ca25eeb40785" />
 
 
 RESULT:
