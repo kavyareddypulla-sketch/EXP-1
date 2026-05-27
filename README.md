@@ -77,6 +77,10 @@ b.  KCL:
 
 <img width="1370" height="654" alt="image" src="https://github.com/user-attachments/assets/5be98c45-fc87-4d32-9747-b0d46d96030c" />
 
+#output:
+<img width="970" height="656" alt="image" src="https://github.com/user-attachments/assets/53510a31-cd13-443c-949a-28f86eab0cd6" />
+<img width="970" height="656" alt="image" src="https://github.com/user-attachments/assets/48abcf37-baaa-4c8e-bd72-a62624194319" />
+
 
 RESULT:
 
