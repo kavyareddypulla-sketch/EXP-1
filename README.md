@@ -75,7 +75,8 @@ a.   KVL:
 
 b.  KCL:
 
-<img width="1370" height="654" alt="image" src="https://github.com/user-attachments/assets/5be98c45-fc87-4d32-9747-b0d46d96030c" />
+<img width="1600" height="913" alt="image" src="https://github.com/user-attachments/assets/e1a93193-136e-4dfa-bfd5-a22d9f182d37" />
+
 
 #output:
 a.KVL
